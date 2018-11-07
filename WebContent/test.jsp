@@ -8,6 +8,7 @@
 <body>
 <%
 	String name="홍성현";
+	int age = 90;
 %>
 </body>
 </html>
